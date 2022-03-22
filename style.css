@@ -30,7 +30,10 @@ img {
   margin-left: 200px;
   z-index: 3;
 }
-
+h3{
+  margin-left: 180px;
+  margin-top: 50px;
+}
 p {
   font-size: 50px;
   text-align: center;
